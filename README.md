@@ -1,4 +1,4 @@
-# Warning❗❗
+8# Warning❗❗
 
 - This is a folder bomber to fill the target memory 
 - Description :
@@ -9,15 +9,19 @@ When this script is run, after 10 seconds, it starts creating files in different
 Give these commands to your target and tell them to enter them 
 
 - Please do not test on your phone!!! 
+--------------------------------
+<a id="installing"></a>
+## install Folder bomber
 
-    $pkg install git
-    $pkg install python
-    $pip3 install webbrowser
-    $https://github.com/AmirHydra/folder_bomber.git
-    $cd folder_bomber
-    $python folder_bomber.py
-
+* `pip3 install webbrowser`
+* `pkg install git`
+* `pkg install python`
+* `git clone https://github.com/AmirHydra/folder_bomber.git`
+* `cd folder_bomber`
+* `python folder_bomber.py`
+---------------------------------
 - Good luck !!
-
+---------------------------------
+## channels 
 - channel Telegram: @AmooHydra
 - channel Rubika : @AmirHydra
